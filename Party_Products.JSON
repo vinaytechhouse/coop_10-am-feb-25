@@ -1,3 +1,6 @@
+There are multiple records with error values.
+
+
 {
   "rows": [
     {
@@ -6,7 +9,7 @@
       "Name": "Adjustable Race",
       "Category": "Components",
       "IsCompete": true,
-      "ManufacturedOn": "07/30/2014"
+      "ManufacturedOn": "07/30/2018"
     },
     {
       "Partyid": 2,
